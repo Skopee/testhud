@@ -5,11 +5,11 @@
 	{
 		"ControlName"		"CTFImagePanel"
 		"fieldName"		"TeamIndicator"
-		"xpos"			"75"
-		"ypos"			"55"
+		"xpos"			"40"
+		"ypos"			"17"
 		"zpos"			"-1"
-		"wide"			"100"
-		"tall"	 		"5"
+		"wide"			"80"
+		"tall"	 		"35"
 		"autoResize"		"0"
 		"pinCorner"		"0"
 		"visible"		"1"
@@ -23,8 +23,8 @@
 		"src_corner_height"		"23"				// pixels inside the image
 		"src_corner_width"		"23"
 			
-		"draw_corner_width"		"2"				// screen size of the corners ( and sides ), proportional
-		"draw_corner_height" 	"2"	
+		"draw_corner_width"		"0"				// screen size of the corners ( and sides ), proportional
+		"draw_corner_height" 	"0"	
 	}
 	
 	
@@ -90,7 +90,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"PlayerStatusHealthValue"
-		"xpos"			"0"
+		"xpos"			"-40"
 		"ypos"			"-25"	[$WIN32]
 		"zpos"			"5"
 		"wide"			"250"
@@ -108,9 +108,9 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"PlayerStatusHealthValue"
-		"xpos"			"0"
-		"ypos"			"-23"	[$WIN32]
-		"zpos"			"2"
+		"xpos"			"-40"
+		"ypos"			"-24"	[$WIN32]
+		"zpos"			"4"
 		"wide"			"250"
 		"tall"			"120"
 		"visible"		"1"

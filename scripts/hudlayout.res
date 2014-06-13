@@ -16,8 +16,8 @@
 		"fieldName" "HudWeaponAmmo"
 		"visible" "1"
 		"enabled" "1"
-		"xpos"	"c125"	[$WIN32]
-		"ypos"	"c150"	[$WIN32]
+		"xpos"	"c40"	[$WIN32]
+		"ypos"	"c100"	[$WIN32]
 		"wide"	"250"
 		"tall"	"120"
 	}
