@@ -2397,7 +2397,8 @@ Scheme
 
 	
 	
-	///////// CUSTOM FONTS FOR CUSTOM HUD
+	///////// CUSTOM FONTS FOR CUSTOM HUD 
+	/////Reg
 		MartellReg12
 		{
 			"1"
@@ -2467,7 +2468,95 @@ Scheme
 				"antialias" "1"
 			}
 		}
+	
+			
+/////////////////	Bold	
+			
+			
+			MartellBold12
+		{
+			"1"
+			{
+				"name"		"Martell Bold"
+				"tall"		"12"
+				"antialias" "1"
+			}
+		}
+		
+		MartellBold16
+		{
+			"1"
+			{
+				"name"		"Martell Bold"
+				"tall"		"16"
+				"antialias" "1"
+			}
+		}
+		
+		MartellBold24
+		{
+			"1"
+			{
+				"name"		"Martell Bold"
+				"tall"		"24"
+				"antialias" "1"
+			}
+		}
+		
+		MartellBold32
+		{
+			"1"
+			{
+				"name"		"Martell Bold"
+				"tall"		"32"
+				"antialias" "1"
+			}
+		}
+		
+		MartellBold36
+		{
+			"1"
+			{
+				"name"		"Martell Bold"
+				"tall"		"36"
+				"antialias" "1"
+			}
+		}
+		
+		MartellBold42
+		{
+			"1"
+			{
+				"name"		"Martell Bold"
+				"tall"		"42"
+				"antialias" "1"
+			}
+		}
+		
+		MartellBold48
+		{
+			"1"
+			{
+				"name"		"Martell Bold"
+				"tall"		"48"
+				"antialias" "1"
+			}
+		}
+	
+		MartellBold56
+		{
+			"1"
+			{
+				"name"		"Martell Bold"
+				"tall"		"56"
+				"antialias" "1"
+			}
+		}
+
 	}
+	
+	
+	
 
 	//
 	//////////////////// BORDERS //////////////////////////////
